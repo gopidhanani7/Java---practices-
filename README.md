@@ -8,7 +8,7 @@ This repository contains Java Praticle Programs.
  - OOP
 
 ## Author
- **Important**Gopi Patel
+ **Gopi Patel**
 
 
 ```java
