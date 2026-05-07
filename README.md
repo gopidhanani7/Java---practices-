@@ -8,4 +8,4 @@ This repository contains Java Praticle Programs.
  - OOP
 
 ## Author
- Gopi PAtel
+ **Gopi Patel**
