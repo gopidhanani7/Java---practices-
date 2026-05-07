@@ -10,7 +10,7 @@ This repository contains Java Praticle Programs.
 ## Author
  **Gopi Patel**
 
-## Java Bsic Program
+## Java Basic Program
 ```java
 System.out.println("Hello");
 ```
