@@ -1,7 +1,7 @@
 # Java---practices-
 This repository contains Java Praticle Programs.
 
-#Topics 
+##Topics 
  - Basic Java
  - Loops
  - Arrays
