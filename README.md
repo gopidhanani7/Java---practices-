@@ -1,22 +1,22 @@
-#Java Calculator Project
+# Java Calculator Project
 
-##About 
+## About 
 Simple Calculator Project using Java
 
 ---
-#Features
--Addition
--Subtration
--Multiplication
--Division
+# Features
+- Addition
+- Subtration
+- Multiplication
+- Division
 
 ---
-#How to run
+
+# How to run
 ```bash
     javac Calculator.java
     java Calculator.java
 ```
-
 ---
-##Author
+## Author
 Gopi Patel
