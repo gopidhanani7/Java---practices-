@@ -1,16 +1,22 @@
-# Java---practices-
-This repository contains Java Praticle Programs.
+#Java Calculator Project
 
-##Topics 
- - Basic Java
- - Loops
- - Arrays
- - OOP
+##About 
+Simple Calculator Project using Java
 
-## Author
- **Gopi Patel**
+---
+#Features
+-Addition
+-Subtration
+-Multiplication
+-Division
 
-## Java Basic Program
-```java
-System.out.println("Hello");
+---
+#How to run
+```bash
+    javac Calculator.java
+    java Calculator.java
 ```
+
+---
+##Author
+Gopi Patel
